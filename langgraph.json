@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "ClasificationAgent": "./MCP-powered-IT-Engineering-Copilot/ClasificationAgent.py:ClasificationAgent"
+    },
+    "python_version": "3.13",
+    "env": ".env",
+    "dependencies": [
+      "."
+    ]
+  }
